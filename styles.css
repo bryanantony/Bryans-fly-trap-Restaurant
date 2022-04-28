@@ -1,0 +1,21 @@
+
+
+img {
+    width: 300px;
+}
+
+body {
+    background-color: purple;
+}
+.both{
+
+    border: 12px dotted yellow;
+    margin: 20px;
+    padding: 10px;
+    color:black;
+}
+
+h1{
+    display:flex;
+    justify-content:flex-start;
+}
